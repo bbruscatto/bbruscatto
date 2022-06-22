@@ -1,10 +1,18 @@
-# Hi! I am Brunno Bruscatto!! 🧑‍💻
+# Hi! I'm Brunno Bruscatto!! 🖖💻
 <div id="header" align="center">
   <a href="https://github.com/bbruscatto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbruscatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbruscatto&layout=compact&langs_count=7&theme=dark"/>
-</div> </a>
+</div>
   
+  ### **About me** 👨🏻‍💻
+  - 👨‍🎓 Production Engineer from Universidade Estadual de Campinas - Unicamp
+  - 🚀 Evolving my developer skills through my full-stack job and daily study
+  - 📚 Flutter, NodeJs, React Native
+  - 🎮 Enjoy playing games and watching movies
+  
+  
+   ### **Skills** 🎯 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brunno-Js" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Brunno-Ts"  height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,8 +23,7 @@
 </div>
   
   
-  ### **Contatos** 📝
- 
+  ###   **Let's connect** 🤝
  
 <div> 
   <a href = "mailto:bruscatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

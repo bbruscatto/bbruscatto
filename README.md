@@ -7,7 +7,7 @@
   
   ### **About me** 👨🏻‍💻
   - 👨‍🎓 Production Engineer from Universidade Estadual de Campinas - Unicamp
-  - 🚀 Evolving my developer skills through my full-stack job and daily study
+  - 🚀 Improving my developer skills through my full-stack job and daily study
   - 📚 Flutter, NodeJs, React Native
   - 🎮 Enjoy playing games and watching movies
   

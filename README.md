@@ -5,12 +5,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbruscatto&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ##
+  
   ### **About me** 👨🏻‍💻
   - 👨‍🎓 Production Engineer from Universidade Estadual de Campinas - Unicamp
   - 🚀 Improving my developer skills through my full-stack job and daily study
   - 📚 Flutter, NodeJs, React Native
   - 🎮 Enjoy playing games and watching movies
   
+  ##
   
    ### **Skills** 🎯 
 <div style="display: inline_block"><br>
@@ -22,6 +25,7 @@
   <img align="center" alt="Brunno-Csharp"  height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
+  ##
   
   ###   **Let's connect** 🤝
  
